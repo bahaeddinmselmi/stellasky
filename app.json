@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Stella's Sky",
+    "slug": "stellas-sky",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "webpack",
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-web-browser",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "tenorKey": "AIzaSyB0nOtjT3imy7KJ7OBu7-SmyEK9oRBuP8o"
+    },
+    "android": {
+      "package": "com.bahaeddin.stellassky"
+    }
+  }
+}

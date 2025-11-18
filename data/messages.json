@@ -1,0 +1,69 @@
+{
+  "taskCompletion": [
+    {
+      "id": 1,
+      "message": "✨ You're shining so bright, Little Star!",
+      "animation": "sparkle"
+    },
+    {
+      "id": 2,
+      "message": "🌟 Another star added to your constellation!",
+      "animation": "glow"
+    },
+    {
+      "id": 3,
+      "message": "💫 Look at you go! So proud of you!",
+      "animation": "twinkle"
+    },
+    {
+      "id": 4,
+      "message": "⭐ You're making your galaxy more beautiful!",
+      "animation": "pulse"
+    },
+    {
+      "id": 5,
+      "message": "🌠 Keep shining, you amazing star!",
+      "animation": "shooting"
+    }
+  ],
+  "streakMilestones": {
+    "3": {
+      "message": "🔥 3 days strong! Your constellation is taking shape!",
+      "secret": "Remember: Small steps lead to giant leaps. You're doing amazing! 💖"
+    },
+    "7": {
+      "message": "⭐ A whole week! You're unstoppable!",
+      "secret": "I'm so proud of how far you've come. Your dedication lights up my world! ✨"
+    },
+    "14": {
+      "message": "🌟 Two weeks of brilliance! You're a supernova!",
+      "secret": "Watching you grow and shine has been the most beautiful thing. Keep being you! 💫"
+    },
+    "30": {
+      "message": "🎆 ONE MONTH! You're a cosmic legend!",
+      "secret": "30 days of you being incredible. I knew you could do it! You make me so happy! 🌌"
+    },
+    "50": {
+      "message": "💎 50 days! You're transcendent!",
+      "secret": "You've turned into a constellation of pure dedication. I love seeing you thrive! 🌠"
+    },
+    "100": {
+      "message": "👑 100 DAYS! Queen of the Stars!",
+      "secret": "You did it! 100 days of being absolutely magnificent. You inspire me every single day! 💝✨"
+    }
+  },
+  "encouragement": [
+    {
+      "trigger": "no_tasks_today",
+      "message": "💭 Every star needs rest. Tomorrow's a new day to shine!"
+    },
+    {
+      "trigger": "first_task",
+      "message": "🌅 Good morning, Little Star! Let's make today beautiful!"
+    },
+    {
+      "trigger": "all_complete",
+      "message": "🎉 All done! Your sky is complete for today! So proud! 💖"
+    }
+  ]
+}
