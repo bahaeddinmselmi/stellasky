@@ -65,4 +65,4 @@ Key configuration files:
 
 ## License
 
-This project is maintained by @bahaeddinmselmi. Licensing details can be added here if needed.
+This project is maintained by @bahaeddinmselmi.
